@@ -1,7 +1,7 @@
 
 public class evenNum {
 
-	//Pick first Even Number.(input: (3,5,6,7,9), output:(6))
+	//Pick first Even Number.(input: (8, 2, 7, 6, 9), output:(8))
 	
 	private static int[] arr = {8, 2, 7, 6, 9};
 	
